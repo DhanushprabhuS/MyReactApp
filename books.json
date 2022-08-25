@@ -1,0 +1,162 @@
+[{
+        "ISBN": 1,
+        "Title": "Full Stack Development",
+        "Author": "Mohanraj and Suresh",
+        "Subject": "Web Technology",
+        "Publishdate": "10-APR-2022"
+    },
+    {
+        "ISBN": 2,
+        "Title": "Full Stack Development",
+        "Author": "Suresh",
+        "Subject": "Web Technology",
+        "Publishdate": "20-APR-2021"
+    },
+    {
+        "ISBN": 3,
+        "Title": "Full Stack Development",
+        "Author": "Amar Singh",
+        "Subject": "Web Technology",
+        "Publishdate": "12-APR-2022"
+    },
+    {
+        "ISBN": 4,
+        "Title": "Full Stack Development",
+        "Author": "Raj Suresh",
+        "Subject": "Web Technology",
+        "Publishdate": "11-APR-2022"
+    },
+    {
+        "ISBN": 5,
+        "Title": "Full Stack Development",
+        "Author": "Mohanraj and Suresh",
+        "Subject": "DSP",
+        "Publishdate": "10-APR-2022"
+    },
+    {
+        "ISBN": 6,
+        "Title": "Full Stack Development",
+        "Author": "Mohanraj and Suresh",
+        "Subject": "DSP",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 7,
+        "Title": "Agile Programming",
+        "Author": "Mohanraj and Suresh",
+        "Subject": "DSP",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 8,
+        "Title": "Total Quality Management",
+        "Author": "Shanmugaraja",
+        "Subject": "Management",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 9,
+        "Title": "Microprocessor and Microcontroller",
+        "Author": "Illanchezlian",
+        "Subject": "Electronics",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 10,
+        "Title": "Cryptography and Network Security",
+        "Author": "Senthilkumar",
+        "Subject": "Security",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 11,
+        "Title": "Machine Learning",
+        "Author": "Jeba Emyln",
+        "Subject": "AI",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 12,
+        "Title": "Python Programming",
+        "Author": "Selvanathan",
+        "Subject": "Programming",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 13,
+        "Title": "Java Programming",
+        "Author": "Aldo Staling",
+        "Subject": "Programming",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 14,
+        "Title": "Wireless Sensor Network",
+        "Author": "Thangaraj",
+        "Subject": "Sensors",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 15,
+        "Title": "Database Management System",
+        "Author": "Akilandeswari",
+        "Subject": "Data Storage",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 16,
+        "Title": "Computer Networks",
+        "Author": "Shanmugaraja",
+        "Subject": "Networks",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 17,
+        "Title": "Socket Programming",
+        "Author": "Shanmugaraja",
+        "Subject": "Networks",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 18,
+        "Title": "Compiler Desing",
+        "Author": "Vasanthi",
+        "Subject": "Compilers",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 19,
+        "Title": "Web Technology",
+        "Author": "Komalavalli",
+        "Subject": "Programming",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 20,
+        "Title": "Software Engineering",
+        "Author": "Iyyanar",
+        "Subject": "Software Engineering",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 21,
+        "Title": "Agile Software Development",
+        "Author": "Deepika",
+        "Subject": "Software Engineering",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 22,
+        "Title": "Devrev Engineering",
+        "Author": "Pandey",
+        "Subject": "Software Engineering",
+        "Publishdate": "31-JUNE-2022"
+    },
+    {
+        "ISBN": 23,
+        "Title": "Agile Software Development",
+        "Author": "Deepika",
+        "Subject": "Software Engineering",
+        "Publishdate": "31-JUNE-2022"
+    }
+]

@@ -1,0 +1,50 @@
+video {
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: -1;
+}
+
+.bg-videobox {
+    /* background: url('/images/img-home.jpg') center center/cover no-repeat; */
+    height: 100VH;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-videobox>h1 {
+    color: #fff;
+    font-size: 100px;
+}
+
+.bg-videobox>p {
+    margin-top: 8px;
+    color: #fff;
+    font-size: 32px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#btn {
+    margin: 25px;
+}
+
+@media screen and (max-width: 960px) {
+    .bg-videobox>h1 {
+        font-size: 70px;
+        margin-top: -150px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .bg-videobox>h1 {
+        font-size: 50px;
+        margin-top: -100px;
+    }
+    .bg-videobox>p {
+        font-size: 30px;
+    }
+}
